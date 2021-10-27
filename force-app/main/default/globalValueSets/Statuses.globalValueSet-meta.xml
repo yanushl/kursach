@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>В оидании обработки...</fullName>
+        <default>true</default>
+        <label>В оидании обработки...</label>
+    </customValue>
+    <customValue>
+        <fullName>На обработке у менеджера</fullName>
+        <default>false</default>
+        <label>На обработке у менеджера</label>
+    </customValue>
+    <customValue>
+        <fullName>На обработке у конструктора</fullName>
+        <default>false</default>
+        <label>На обработке у конструктора</label>
+    </customValue>
+    <customValue>
+        <fullName>В очереди на изготовление</fullName>
+        <default>false</default>
+        <label>В очереди на изготовление</label>
+    </customValue>
+    <customValue>
+        <fullName>Готов</fullName>
+        <default>false</default>
+        <label>Готов</label>
+    </customValue>
+    <masterLabel>Statuses</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
